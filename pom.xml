@@ -9,13 +9,12 @@
 		<version>2.3.4.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>IchHabNochNie</groupId>
-	<artifactId>IchHabNochNie</artifactId>
+	<groupId>com.charbelchougourou</groupId>
+	<artifactId>trinkspielplatz</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	
-	
-	<name>TrinkspielMania</name>
+	<name>Trinkspielplatz</name>
 	<url>http://maven.apache.org</url>
 	
 	<properties>
